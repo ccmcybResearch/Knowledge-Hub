@@ -1,5 +1,5 @@
 
-# KnowledgeHub
+# Knowledge Hub
 
 **KnowledgeHub** is a centralized repository established to systematically capture, organize, and disseminate knowledge across multiple domains within an organization. It facilitates collaborative knowledge sharing among team members, enabling the consolidation of expertise and best practices. By providing a structured and accessible platform, KnowledgeHub aims to enhance organizational learning, support informed decision-making, and drive innovation through collective intelligence.
 
@@ -15,13 +15,13 @@
 
 ## Overview
 
-KnowledgeHub serves as a dynamic platform where team members can contribute, access, and refine information across a wide range of domains. This repository promotes continuous learning, fosters collaboration, and ensures that valuable insights and expertise are preserved and accessible to the entire team.
+Knowledge Hub serves as a dynamic platform where team members can contribute, access, and refine information across a wide range of domains. This repository promotes continuous learning, fosters collaboration, and ensures that valuable insights and expertise are preserved and accessible to the entire team.
 
 ---
 
 ## Contributing
 
-We encourage all team members to actively contribute to KnowledgeHub to continuously enrich our shared knowledge base.
+We encourage all team members to actively contribute to Knowledge Hub to continuously enrich our shared knowledge base.
 
 ### New Additions
 
